@@ -48,8 +48,8 @@ The Following Setup is tested and working:
 ## Citing
 Please adequately refer to the papers any time this Work/Dataset is being used. If you do publish a paper where this Work helped your research, Please cite the following papers in your publications.
 
-	@inproceedings{Samadzadeh2019RILP,
-	  title={...},
+	@inproceedings{Samadzadeh2020RILP,
+	  title={RILP: Robust Iranian License Plate Recognition Designed for Complex Conditions},
 	  author={Ali Samadzadeh, Amir Mehdi Shayan, Bahman Rouhani, Ahmad Nickabadi, Mohammad Rahmati},
-	  year={2019},
+	  year={2020},
 	  organization={IEEE}}
